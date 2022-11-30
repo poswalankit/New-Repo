@@ -7,7 +7,7 @@ public class Assignment2 {
 		int a,b;
 		a=10;
 		b=20;
-		System.out.println("Before Swapping Numbers a and b are "+a+" "+b );
+		System.out.println("Before Swapping Number a and b are "+a+" "+b );
 		a = a+b;
 		b = a-b;
 		a = a-b;
