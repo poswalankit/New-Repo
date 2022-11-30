@@ -6,7 +6,7 @@ public class Asg5 {
 	
 	public static void main(String[] args)
 	{
-		System.out.println("Please enter  number");
+		System.out.println("Please enter  a number");
 		Scanner s2 = new Scanner(System.in);
 		int n = s2.nextInt();
 		int r,c , arm =0;
